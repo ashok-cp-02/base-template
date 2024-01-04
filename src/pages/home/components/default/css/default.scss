@@ -1,0 +1,14 @@
+@import "../../../../../common/assets/css/main.scss";
+
+.default {
+  padding: 100px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  h1 {
+    margin: 0px;
+    font-family: $themefont;
+    text-align: center;
+    color: $themecolor;
+  }
+}
