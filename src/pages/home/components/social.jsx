@@ -65,7 +65,7 @@ const Social = () => {
           </a>
         </li>
         <li>
-          <a className="stackover" href="#" rel="noopener noreferrer">
+          <a className="stackover" href="/" rel="noopener noreferrer">
             <FaStackOverflow />
           </a>
         </li>
